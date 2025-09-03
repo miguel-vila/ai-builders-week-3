@@ -1,0 +1,14 @@
+[project]
+name = "ai-builders-week-3"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "beautifulsoup4>=4.13.5",
+    "jupyter>=1.1.1",
+    "pandas>=2.3.2",
+    "pymupdf>=1.26.4",
+    "python-jobspy>=1.1.82",
+    "sentence-transformers>=5.1.0",
+]
