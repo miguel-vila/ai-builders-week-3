@@ -8,4 +8,4 @@ $ uv run python download_jobs_postings.py
 
 ## Embeddings similarity search
 
-[./embeddings.ipynb]
+[./embeddings.ipynb](./embeddings.ipynb)
